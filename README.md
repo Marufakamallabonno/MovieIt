@@ -8,6 +8,6 @@ This project Contains the following features:
 * User Profile
 * Rating Movies
 
-> **Click On the image to see Project Demo**
+> **Click on the image to see project demo**
 
 [![Watch the video](https://user-images.githubusercontent.com/32562942/132524131-a3137385-ee61-42ab-b17c-69e8741b5518.JPG)](https://youtu.be/T-D1KVIuvjA)
