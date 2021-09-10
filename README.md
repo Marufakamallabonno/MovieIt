@@ -10,4 +10,4 @@ This project Contains the following features:
 
 > **Click on the image to see project demo**
 
-[![Watch the video](https://user-images.githubusercontent.com/32562942/132524131-a3137385-ee61-42ab-b17c-69e8741b5518.JPG)](https://youtu.be/T-D1KVIuvjA)
+[![Watch the video](https://user-images.githubusercontent.com/32562942/132524131-a3137385-ee61-42ab-b17c-69e8741b5518.JPG)](https://www.youtube.com/watch?v=HcBd__bGifc)
